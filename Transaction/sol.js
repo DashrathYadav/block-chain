@@ -26,9 +26,11 @@ const airdrop=async function(public_key,amount)
 }
 
 const transact= async function ()
+
+// secret key show here for demo purpose it will not work in actuly
 {
     const secretekey=[
-        179, 237, 99, 45, 68, 194, 167, 94, 95, 117,
+        178, 237, 99, 45, 68, 194, 167, 94, 95, 117,
         192, 3, 223, 194, 200, 198, 176, 187, 175, 207,
         21, 57, 27, 229, 202, 234, 139, 229, 193, 103,
         198, 88, 119, 207, 152, 160, 70, 175, 100, 239,
